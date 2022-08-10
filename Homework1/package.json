@@ -1,0 +1,22 @@
+{
+  "name": "patika-homework1",
+  "version": "1.0.0",
+  "description": "This repository contains all homeworks in the React module on Patika.dev.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RIFATozen/patika.devAllReactHomeworks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RIFATozen/patika.devAllReactHomeworks/issues"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
