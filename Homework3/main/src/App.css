@@ -1,0 +1,35 @@
+.App {
+  height: 100vh;
+  background-color: lightgrey;
+}
+.schema {
+  text-align: center;
+  width: 650px;
+}
+.degrees {
+  font-size: 13px;
+}
+img {
+  height: 48px;
+}
+.allContent {
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, -50%);
+  background-color: #23272e;
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
+  -webkit-box-shadow: 4px 4px 10px 4px rgba(0,0,0,0.5); 
+  box-shadow: 4px 4px 10px 4px rgba(0,0,0,0.5);
+}
+.newColor {
+  color: #9aa0a6;
+}
+.hColor {
+  color: lightgray;
+}
+.iColor {
+  background-color: rgb(250, 250, 250);
+}
