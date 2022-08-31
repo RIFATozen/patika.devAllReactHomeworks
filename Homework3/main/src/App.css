@@ -21,8 +21,8 @@ img {
   color: white;
   padding: 20px;
   border-radius: 20px;
-  -webkit-box-shadow: 4px 4px 10px 4px rgba(0,0,0,0.5); 
-  box-shadow: 4px 4px 10px 4px rgba(0,0,0,0.5);
+  -webkit-box-shadow: 4px 4px 10px 4px rgba(0, 0, 0, 0.5);
+  box-shadow: 4px 4px 10px 4px rgba(0, 0, 0, 0.5);
 }
 .newColor {
   color: #9aa0a6;
@@ -32,4 +32,12 @@ img {
 }
 .iColor {
   background-color: rgb(250, 250, 250);
+}
+.border1 {
+  border: 1px solid lightgray;;
+  border-radius: 10px;
+}
+.wDays {
+  padding-top: 3px;
+  height: 116px;
 }

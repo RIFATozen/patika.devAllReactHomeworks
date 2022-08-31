@@ -7,7 +7,7 @@ function Content() {
   return (
     <div className="row schema">
       {days.map((item, index) => (
-        <div key={index} className="col">
+        <div key={index} className={`col wDays ${index === 0 ? "border1" : ""}`}>
           <h5 className="hColor">
             {weekday[new Date(item.datetime).getDay()]}
           </h5>
